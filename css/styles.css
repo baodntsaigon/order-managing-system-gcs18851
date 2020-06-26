@@ -1,5 +1,6 @@
 html {
-  height: 100%;
+    height: 100%;
+    background: #CBA0A0;
 }
 
 body {
@@ -70,13 +71,13 @@ body {
 
 /*Navigator*/
 .navbar {
-  z-index: 1;
-  width: 100%;
-  background: #f5bbb6;
-  color: #000000;
-  position: absolute;
-  top: 0;
-  left: 0;
+    z-index: 1;
+    width: 100%;
+    background: #F16666;
+    color: #000000;
+    position: absolute;
+    top: 0;
+    left: 0;
 }
 
 .nav-container {
