@@ -1,5 +1,6 @@
 html {
   height: 100%;
+  background: #CBA0A0;
 }
 
 body {
@@ -72,7 +73,7 @@ body {
 .navbar {
   z-index: 1;
   width: 100%;
-  background: #f5bbb6;
+  background: #F16666;
   color: #000000;
   position: absolute;
   top: 0;
