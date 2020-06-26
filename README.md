@@ -1,5 +1,4 @@
 App heroku: https://hidden-plateau-01958.herokuapp.com/login.php
-
 usersname    |   uspassword   | level
 -------------+----------------+----------
  ngochan     | anything       | director
