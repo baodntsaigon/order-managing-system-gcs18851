@@ -1,4 +1,5 @@
-App heroku: https://hidden-plateau-01958.herokuapp.com/login.php
+App heroku: https://asm2baodnt.herokuapp.com/login.php
+username and password for testing app
 usersname    |   uspassword   | level
 -------------+----------------+----------
  ngochan     | anything       | director
