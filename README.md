@@ -12,4 +12,4 @@ usersname    |   uspassword   | level
  tuandung    | angrybaldeagle | agency
  vanson      | boringschool   | agency
  nguyenkhang | classmate      | agency
- newagency   | 123456         | agency 
+ newagency   | 123456         | agency
