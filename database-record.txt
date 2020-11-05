@@ -84,13 +84,6 @@ INSERT INTO   Supplier(SuPhone, SuAddress) VALUES('0305424646','Kuala Lumpua, Ma
 INSERT INTO Catalogue(Category) VALUES('Action figures');
 INSERT INTO Catalogue(Category) VALUES('Animals');
 INSERT INTO Catalogue(Category) VALUES('Cars and radio controlled');
-INSERT INTO Catalogue(Category) VALUES('Construction toys');
-INSERT INTO Catalogue(Category) VALUES('Creative toys');
-INSERT INTO Catalogue(Category) VALUES('Dolls');
-INSERT INTO Catalogue(Category) VALUES('Educational toys');
-INSERT INTO Catalogue(Category) VALUES('Electronic toys');
-INSERT INTO Catalogue(Category) VALUES('Food-related toys');
-INSERT INTO Catalogue(Category) VALUES('Puzzle');
 -----
 INSERT INTO Agency(AgPhone, AgAddress) VALUES ('0312345848','HCM city');
 INSERT INTO Agency(AgPhone, AgAddress) VALUES ('0494962626','Da Nang City');
